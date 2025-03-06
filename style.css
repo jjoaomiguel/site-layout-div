@@ -1,10 +1,10 @@
 body {
-    background-color:rgb(29, 29, 202); 
+    background-color: rgb(29, 29, 202);
 }
 
 
-.azul{
-    background-color:rgb(29, 29, 202);
+.azul {
+    background-color: rgb(29, 29, 202);
     padding: 50 px;
     margin: 100px;
 }
@@ -23,8 +23,12 @@ body {
     padding-right: 307px;
 }
 
+.alongar2 {
+    padding-right: 525;
+}
+
 .estender {
-    padding-bottom: 280px;
+    padding-bottom: 289px;
 }
 
 .estender2 {
